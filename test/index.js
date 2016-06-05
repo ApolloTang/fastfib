@@ -14,3 +14,5 @@ assert.equal(fastfib(10), 55);
 assert.equal(fastfib(11), 89);
 assert.equal(fastfib(12), 144);
 // if we get this far we can assume we are on the right track
+
+console.log('test done')
